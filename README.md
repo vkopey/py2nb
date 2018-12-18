@@ -9,7 +9,7 @@ Python 2.7, Jupyter Notebook 5.0.0, pandoc 2.2.1 (for converting to .docx)
 
 Install:
 
-Copy files to one folder. Edit file paths in convertExec.bat and convertNoExec.bat. For converting to .docx put `reference.docx` to `c:\Users\<username>\AppData\Roaming\Pandoc`). 
+Copy files to one folder. Edit file paths in convertExec.bat and convertNoExec.bat. For converting to .docx put `reference.docx` to `c:\Users\<username>\AppData\Roaming\Pandoc`. 
 
 Usage (see Examples):
 
